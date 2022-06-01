@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system">
   <head>
@@ -58,7 +51,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-Mc2pkINU6rlGF10IG+S/Gq7oIDIiOUE+tIxB2E2EetcNdSBNyELodHrJx1LjqDM/ew8TKZaoNOIn428Pwt+C0Q==" src="https://github.githubassets.com/assets/diffs-31cda9908354.js"></script>
   
 
-  <title>games-js/Sokoban.js at main · kocwong/games-js</title>
+  <title>Sokoban.js at main · kocwong/games-js</title>
 
 
 
